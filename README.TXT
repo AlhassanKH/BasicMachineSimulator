@@ -4,6 +4,13 @@ This is a project to obtain a deeper understanding of designing,
 structure and operations of a computer system and how execution works.
 
 We are currently at a phase - IVa of the project (Completed) Read the Report For more info
+
+Contributors
+    @shahdev99 - Dev Shah
+    @pkab - Abhinava Phukan
+    @natrjord
+    @AlhassanKH - Alhassan
+
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Basic Machine Simulator
